@@ -1,0 +1,49 @@
+.Board{
+  background-color: rgb(46, 120, 31);
+  color: rgb(246, 241, 241);
+  width: 90rem;
+  height: 60rem;
+  position:relative;
+}
+
+.title{
+  font-size: 5rem;
+  display: inline;
+}
+
+.startButton{
+  margin-left: 37%;
+  width:20rem;
+  height:7rem;
+  font-size: 2.5rem;
+  border-radius: 2rem;
+}
+
+.info{
+  padding:2rem;
+  margin-left: 50rem;
+  margin-top: -5rem;
+  font-size: 2rem;
+}
+
+.button{
+  width: 10rem;
+  height: 5rem;
+  background-color:azure;
+  font-size: large;
+  border-radius: 1.2rem;
+}
+
+.button2{
+  margin-left: 20rem;
+  width: 10rem;
+  height: 5rem;
+  background-color:rgb(221, 39, 39);
+  font-size: large;
+  border-radius: 1.2rem;
+  box-shadow:3rem;
+}
+
+.icon{
+  width: 10rem;
+}
